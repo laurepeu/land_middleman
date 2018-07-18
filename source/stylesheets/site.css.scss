@@ -69,11 +69,18 @@ body {
   .featurette-heading {
     font-size: 50px;
   }
+
+  .h1{
+    font-size: 20px;
+  }
 }
 
 @media (min-width: 62em) {
   .featurette-heading {
     margin-top: 2rem; 
+  }
+  .h1{
+    font-size: 20px;
   }
   
 }
@@ -176,6 +183,7 @@ h2 {
 
 h1{
   font-weight: 500px;
+  font-size: 30px;
 }
 
 .btn-primary {
