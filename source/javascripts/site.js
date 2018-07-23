@@ -11,4 +11,9 @@
         'backdrop' : 'static',
         'keyboard' : 'true',
         'focus' : 'true'
-      }
+      };
+
+
+      $('.carousel').carousel({
+        interval: 1000
+      })
