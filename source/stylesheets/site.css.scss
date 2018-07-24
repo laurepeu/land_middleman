@@ -51,8 +51,8 @@ body {
   vertical-align: auto;
 }
  
-.img-fluid {
-  max-width: 100%;
+.img-fluid.histoire{
+  max-width: 50%;
   height: auto;
 }
 
@@ -81,6 +81,10 @@ body {
   }
   .h1{
     font-size: 20px;
+  }
+
+  .histoire {
+    height: 500spx;
   }
   
 }
@@ -222,7 +226,7 @@ h1{
   filter:alpha(opacity=0);
   -webkit-transition:all .2s ease-in-out;
   transition:all .2s ease-in-out;
-  margin:50px 0 0;
+  margin:70px 0 0;
   padding:7px 14px;
   }
   
@@ -306,4 +310,8 @@ h1{
 
 .a {
   color:none;
+}
+
+.histoire {
+  height: 500spx;
 }
