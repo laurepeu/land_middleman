@@ -325,3 +325,18 @@ h1{
 .histoire {
   height: 500spx;
 }
+
+.card {
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+}
+
+.btn-primary {
+  background-color:#d88415;
+  border-color:#d88415;
+}
+.btn-primary:hover {
+  background-color:#d88415;
+  border-color:#d88415;
+}
