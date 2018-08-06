@@ -340,3 +340,8 @@ h1{
   background-color:#d88415;
   border-color:#d88415;
 }
+
+.btn:focus, .btn:active {
+  outline: none !important;
+  box-shadow: none !important;
+}
