@@ -17,3 +17,11 @@
       $('.carousel').carousel({
         interval: 200
       })
+
+
+
+
+    //   // Make the arrows appear for each slides and each carousel 
+    //  $("div.carousel-item").html(function(){
+    //     carousel-item.classList.add()
+    //  })
